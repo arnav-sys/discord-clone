@@ -5,6 +5,21 @@
   width: 100%;
 }
 
+.login__logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login__logo > h2 {
+  font-size: 40px;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  color: #738adb;
+  letter-spacing: -2px;
+}
+
 .login > button {
   width: 300px;
   background-color: #738adb;
@@ -18,5 +33,5 @@
 
 .login > div > img {
   object-fit: contain;
-  width: 500px;
+  width: 300px;
 }

@@ -83,6 +83,10 @@
   color: white;
 }
 
+.sidebar__profileInfo > p {
+  font-size: small;
+}
+
 .sidebar__profileIcons > .MuiSvgIcon-root {
   margin: 10px;
 }
