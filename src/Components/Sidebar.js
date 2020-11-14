@@ -48,7 +48,7 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="sidebar__top">
-        <h3>Clever programmer</h3>
+        <h3>Discord Chats</h3>
         <ExpandMore />
       </div>
 
