@@ -5,6 +5,7 @@
   width: 750px;
   background: #363a3f;
   height: 100vh;
+  overflow-y: scroll;
 }
 
 .chat__messages {
